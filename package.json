@@ -1,4 +1,21 @@
 {
+  "name": "reakit",
+  "version": "0.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmedianetwork/reakit.git"
+  },
+  "author": "@diegohaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmedianetwork/reakit/issues"
+  },
+  "homepage": "https://github.com/pmedianetwork/reakit#readme",
   "private": true,
   "workspaces": {
     "packages": [
